@@ -8,4 +8,4 @@ https://doi.org/10.1016/j.protcy.2016.08.104
 ![BlowFish](https://github.com/NikolaosGian/RTL_Blowfish/blob/main/bl.png)
 
 ![Wave](https://github.com/NikolaosGian/RTL_Blowfish/blob/main/wave.png)
-![chip](https://github.com/NikolaosGian/RTL_Blowfish/blob/main/wave.png](https://github.com/NikolaosGian/RTL_Blowfish/blob/vlsi/openlane_folder/blowfish.png))
+![chip](https://github.com/NikolaosGian/RTL_Blowfish/blob/vlsi/openlane_folder/blowfish.png)
